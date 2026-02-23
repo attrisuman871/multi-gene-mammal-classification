@@ -1,0 +1,183 @@
+order,family,genus,specificEpithet,countryDistribution,biogeographicRealm,iucnStatus,Scientific_Name
+Didelphimorphia,Didelphidae,Monodelphis,americana,Brazil|Argentina?,Neotropic,LC,Monodelphis americana
+Dasyuromorphia,Dasyuridae,Antechinus,leo,Australia,Australasia,LC,Antechinus leo
+Peramelemorphia,Peramelidae,Microperoryctes,murinus,Indonesia,Australasia,VU (as Microperoryctes murina),Microperoryctes murinus
+Diprotodontia,Acrobatidae,Acrobates,pygmaeus,Australia,Australasia,LC,Acrobates pygmaeus
+Diprotodontia,Pseudocheiridae,Pseudochirulus,larvatus,Indonesia|Papua New Guinea,Australasia,LC,Pseudochirulus larvatus
+Pilosa,Bradypodidae,Bradypus,pygmaeus,Panama,Neotropic,CR,Bradypus pygmaeus
+Macroscelidea,Macroscelididae,Elephantulus,fuscus,Malawi|Mozambique|Zambia?,Afrotropic,DD,Elephantulus fuscus
+Primates,Cercopithecidae,Chlorocebus,aethiops,Egypt?|Eritrea|Ethiopia|Djibouti|Sudan|South Sudan,Afrotropic,LC,Chlorocebus aethiops
+Primates,Cercopithecidae,Macaca,mulatta,Afghanistan|Pakistan|India|China|Nepal|Bhutan|Bangladesh|Myanmar|Thailand|Laos|Vietnam,Indomalaya|Palearctic,LC,Macaca mulatta
+Primates,Cercopithecidae,Papio,hamadryas,Saudi Arabia|Yemen|Sudan|Eritrea|Djibouti|Ethiopia|Somalia,Afrotropic,LC,Papio hamadryas
+Primates,Cercopithecidae,Colobus,guereza,Nigeria|Cameroon|Chad|Central African Republic|Gabon|Republic of the Congo|Democratic Republic of the Congo|South Sudan|Uganda|Ethiopia|Kenya|Tanzania|Rwanda,Afrotropic,LC,Colobus guereza
+Primates,Cercopithecidae,Nasalis,larvatus,Indonesia|Brunei|Malaysia,Indomalaya,EN,Nasalis larvatus
+Primates,Cercopithecidae,Trachypithecus,francoisi,China|Vietnam,Indomalaya,EN,Trachypithecus francoisi
+Primates,Hominidae,Gorilla,beringei,Democratic Republic of the Congo|Uganda|Rwanda,Afrotropic,CR,Gorilla beringei
+Primates,Hominidae,Gorilla,gorilla,Nigeria|Cameroon|Central African Republic|Equatorial Guinea|Gabon|Republic of the Congo|Angola,Afrotropic,CR,Gorilla gorilla
+Primates,Hominidae,Homo,sapiens,,,NE,Homo sapiens
+Primates,Hominidae,Pan,troglodytes,Senegal|Mali|Guinea-Bissau|Guinea|Sierra Leone|Liberia|Cote d'Ivoire|Ghana|Nigeria|Cameroon|Central African Republic|South Sudan|Equatorial Guinea|Gabon|Republic of the Congo|Democratic Republic of the Congo|Uganda|Rwanda|Burundi|Tanzania,Afrotropic,EN,Pan troglodytes
+Primates,Hominidae,Pongo,pygmaeus,Indonesia|Malaysia,Indomalaya,CR,Pongo pygmaeus
+Primates,Aotidae,Aotus,trivirgatus,Venezuela|Colombia|Brazil,Neotropic,LC,Aotus trivirgatus
+Primates,Atelidae,Alouatta,palliata,Mexico|Guatemala|Honduras|Nicaragua|Costa Rica|Panama|Colombia|Ecuador|Peru,Neotropic,VU,Alouatta palliata
+Primates,Atelidae,Ateles,geoffroyi,Mexico|Belize|Guatemala|Honduras|El Salvador|Nicaragua|Costa Rica|Panama,Neotropic,EN,Ateles geoffroyi
+Primates,Atelidae,Brachyteles,arachnoides,Brazil,Neotropic,CR,Brachyteles arachnoides
+Primates,Atelidae,Lagothrix,lagothricha,Colombia|Venezuela|Ecuador|Peru|Brazil|Bolivia,Neotropic,VU,Lagothrix lagothricha
+Primates,Callitrichidae,Callithrix,geoffroyi,Brazil,Neotropic,LC,Callithrix geoffroyi
+Primates,Callitrichidae,Callithrix,jacchus,Brazil,Neotropic,LC,Callithrix jacchus
+Primates,Callitrichidae,Saguinus,fuscus,Colombia|Brazil,Neotropic,LC (as Leontocebus fuscus),Saguinus fuscus
+Primates,Callitrichidae,Saguinus,geoffroyi,Panama|Colombia,Neotropic,NT (as Oedipomidas geoffroyi),Saguinus geoffroyi
+Primates,Callitrichidae,Saguinus,oedipus,Colombia,Neotropic,CR (as Oedipomidas oedipus),Saguinus oedipus
+Primates,Cebidae,Cebus,capucinus,Honduras|Nicaragua|Costa Rica|Panama|Colombia|Ecuador,Neotropic,VU,Cebus capucinus
+Primates,Cebidae,Saimiri,sciureus,Guyana|Suriname|French Guiana|Brazil,Neotropic,LC,Saimiri sciureus
+Primates,Pitheciidae,Pithecia,pithecia,Venezuela|Guyana|Suriname|French Guiana|Brazil,Neotropic,LC,Pithecia pithecia
+Primates,Tarsiidae,Carlito,syrichta,Philippines,Indomalaya,NT,Carlito syrichta
+Primates,Tarsiidae,Tarsius,fuscus,Indonesia,Australasia,VU,Tarsius fuscus
+Primates,Cheirogaleidae,Microcebus,murinus,Madagascar,Afrotropic,LC,Microcebus murinus
+Primates,Lemuridae,Hapalemur,griseus,Madagascar,Afrotropic,VU,Hapalemur griseus
+Primates,Lemuridae,Lemur,catta,Madagascar,Afrotropic,EN,Lemur catta
+Primates,Lorisidae,Nycticebus,javanicus,Indonesia,Indomalaya,CR,Nycticebus javanicus
+Primates,Lorisidae,Xanthonycticebus,pygmaeus,Laos|Vietnam|Cambodia,Indomalaya,EN (as Nycticebus pygmaeus),Xanthonycticebus pygmaeus
+Lagomorpha,Leporidae,Sylvilagus,brasiliensis,Colombia|Ecuador|Peru|Venezuela|Guyana|Suriname|French Guiana|Brazil|Bolivia|Paraguay|Argentina,Neotropic,EN,Sylvilagus brasiliensis
+Rodentia,Caviidae,Cavia,porcellus,Domesticated,,NE,Cavia porcellus
+Rodentia,Chinchillidae,Chinchilla,lanigera,Chile,Neotropic,EN,Chinchilla lanigera
+Rodentia,Erethizontidae,Erethizon,dorsatum,Canada|United States|Mexico,Nearctic,LC,Erethizon dorsatum
+Rodentia,Hystricidae,Hystrix,cristata,Italy|Tunisia|Algeria|Morocco|Libya|Egypt|Mauritania|Mali|Senegal|Gambia|Guinea-Bissau|Guinea|Sierra Leone|Liberia|Cote d'Ivoire|Burkina Faso|Ghana|Togo|Benin|Nigeria|Cameroon|Chad|Central African Republic|Democratic Republic of the Congo|Sudan|South Sudan|Eritrea|Djibouti|Ethiopia|Somalia|Uganda|Kenya|Rwanda|Burundi|Tanzania,Afrotropic|Palearctic,LC,Hystrix cristata
+Rodentia,Ctenomyidae,Ctenomys,brasiliensis,Uruguay,Neotropic,DD,Ctenomys brasiliensis
+Rodentia,Echimyidae,Phyllomys,brasiliensis,Brazil,Neotropic,EN,Phyllomys brasiliensis
+Rodentia,Echimyidae,Myocastor,coypus,Brazil|Bolivia|Paraguay|Uruguay|Argentina|Chile,Neotropic,LC,Myocastor coypus
+Rodentia,Octodontidae,Aconaemys,fuscus,Chile|Argentina,Neotropic,LC,Aconaemys fuscus
+Rodentia,Octodontidae,Octodon,degus,Chile,Neotropic,LC,Octodon degus
+Rodentia,Gliridae,Graphiurus,murinus,Ethiopia|Kenya|Uganda|Democratic Republic of the Congo|Rwanda|Burundi|Tanzania|Zambia|Malawi|Zimbabwe|Mozambique|South Africa|Eswatini|Lesotho,Afrotropic,LC,Graphiurus murinus
+Rodentia,Sciuridae,Prosciurillus,murinus,Indonesia,Australasia,LC,Prosciurillus murinus
+Rodentia,Sciuridae,Tamiops,maritimus,China|Taiwan|Vietnam|Laos,Palearctic|Indomalaya,LC,Tamiops maritimus
+Rodentia,Sciuridae,Sciurus,brasiliensis,Brazil|Paraguay|Argentina,Neotropic,NE,Sciurus brasiliensis
+Rodentia,Sciuridae,Sciurus,carolinensis,Canada|United States,Nearctic,LC,Sciurus carolinensis
+Rodentia,Sciuridae,Sciurus,griseus,United States|Mexico,Nearctic,LC,Sciurus griseus
+Rodentia,Sciuridae,Ictidomys,tridecemlineatus,Canada|United States,Nearctic,LC,Ictidomys tridecemlineatus
+Rodentia,Sciuridae,Marmota,monax,Canada|United States,Nearctic,LC,Marmota monax
+Rodentia,Sciuridae,Spermophilus,pygmaeus,Kazakhstan|Russia,Palearctic,LC,Spermophilus pygmaeus
+Rodentia,Castoridae,Castor,canadensis,Canada|United States|Mexico,Nearctic,LC,Castor canadensis
+Rodentia,Heteromyidae,Dipodomys,ordii,Canada|United States|Mexico,Nearctic,LC,Dipodomys ordii
+Rodentia,Heteromyidae,Perognathus,flavescens,United States|Mexico,Nearctic,LC,Perognathus flavescens
+Rodentia,Dipodidae,Stylodipus,sungorus,China|Mongolia,Palearctic,LC,Stylodipus sungorus
+Rodentia,Cricetidae,Arvicola,amphibius,United Kingdom|Portugal|Spain|France|Switzerland|Belgium|Netherlands|Germany|Denmark|Luxembourg|Liechtenstein|Italy|Austria|Slovenia|Croatia|Bosnia and Herzegovina|Montenegro|Serbia|Kosovo|Albania|North Macedonia|Greece|Bulgaria|Romania|Hungary|Slovakia|Czech Republic|Poland|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Azerbaijan|Turkey|Iran|Kazakhstan|China|Mongolia,Palearctic,LC,Arvicola amphibius
+Rodentia,Cricetidae,Eolagurus,przewalskii,Mongolia|China,Palearctic,LC,Eolagurus przewalskii
+Rodentia,Cricetidae,Microtus,arvalis,Portugal|Spain|France|Belgium|Netherlands|Luxembourg|Switzerland|Liechtenstein|Italy|Austria|Germany|Denmark|Czech Republic|Croatia|Bosnia and Herzegovina|Montenegro|Albania|North Macedonia|Bulgaria|Serbia|Kosovo|Slovenia|Slovakia|Hungary|Romania|Moldova|Ukraine|Poland|Belarus|Lithuania|Latvia|Estonia|Finland|Russia,Palearctic,LC,Microtus arvalis
+Rodentia,Cricetidae,Neodon,fuscus,China,Palearctic,LC,Neodon fuscus
+Rodentia,Cricetidae,Phodopus,sungorus,Kazakhstan|Russia,Palearctic,LC,Phodopus sungorus
+Rodentia,Cricetidae,Baiomys,musculus,Mexico,Nearctic,LC,Baiomys musculus
+Rodentia,Cricetidae,Neotoma,albigula,United States|Mexico,Nearctic,LC,Neotoma albigula
+Rodentia,Cricetidae,Peromyscus,maniculatus,Canada|United States,Nearctic,LC,Peromyscus maniculatus
+Rodentia,Cricetidae,Holochilus,brasiliensis,Brazil|Paraguay|Uruguay|Argentina,Neotropic,LC,Holochilus brasiliensis
+Rodentia,Cricetidae,Holochilus,sciureus,Brazil,Neotropic,LC,Holochilus sciureus
+Rodentia,Cricetidae,Nectomys,rattus,Colombia|Venezuela|Guyana|Suriname|French Guiana|Brazil|Peru|Paraguay,Neotropic,LC,Nectomys rattus
+Rodentia,Cricetidae,Oligoryzomys,flavescens,Brazil|Bolivia|Paraguay|Uruguay|Argentina,Neotropic,LC,Oligoryzomys flavescens
+Rodentia,Cricetidae,Oryzomys,fulgens,Mexico,Nearctic,NE,Oryzomys fulgens
+Rodentia,Muridae,Acomys,cahirinus,Israel|Egypt|Libya|Sudan|Ethiopia|Eritrea|Djibouti,Afrotropic|Palearctic,LC,Acomys cahirinus
+Rodentia,Muridae,Brachiones,przewalskii,China,Palearctic,LC,Brachiones przewalskii
+Rodentia,Muridae,Meriones,unguiculatus,Russia|Mongolia|China,Palearctic,LC,Meriones unguiculatus
+Rodentia,Muridae,Typomys,trivirgatus,Sierra Leone|Guinea|Liberia|Cote d'Ivoire|Ghana|Nigeria,Afrotropic,LC (as Hybomys trivirgatus),Typomys trivirgatus
+Rodentia,Muridae,Apomys,musculus,Philippines,Indomalaya,LC,Apomys musculus
+Rodentia,Muridae,Mastacomys,fuscus,Australia,Australasia,NT,Mastacomys fuscus
+Rodentia,Muridae,Melomys,fulgens,Indonesia,Australasia,DD,Melomys fulgens
+Rodentia,Muridae,Notomys,fuscus,Australia,Australasia,VU,Notomys fuscus
+Rodentia,Muridae,Pseudohydromys,fuscus,Papua New Guinea,Australasia,LC,Pseudohydromys fuscus
+Rodentia,Muridae,Pseudohydromys,murinus,Papua New Guinea,Australasia,LC,Pseudohydromys murinus
+Rodentia,Muridae,Mus,musculus,Ireland|United Kingdom|Portugal|Spain|France|Netherlands|Belgium|Luxembourg|Switzerland|Liechtenstein|Italy|Malta|Austria|Germany|Denmark|Czech Republic|Slovenia|Slovakia|Hungary|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Poland|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Morocco|Algeria|Tunisia|Libya|Egypt|Sudan|Eritrea|Ethiopia|Djibouti|Georgia|Armenia|Azerbaijan|Turkey|Cyprus|Syria|Lebanon|Israel|Palestine|Jordan|Saudi Arabia|Yemen|Oman|United Arab Emirates|Qatar|Bahrain|Kuwait|Iraq|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Nepal|Sri Lanka|Bangladesh|Bhutan|Mongolia|China|Japan|Myanmar|Thailand|Vietnam|Laos|Cambodia|Malaysia,Palearctic|Afrotropic|Indomalaya,LC,Mus musculus
+Rodentia,Muridae,Hylomyscus,pygmaeus,Democratic Republic of the Congo,Afrotropic,NE,Hylomyscus pygmaeus
+Rodentia,Muridae,Micromys,pygmaeus,China|India|Myanmar,Indomalaya|Palearctic,NE,Micromys pygmaeus
+Rodentia,Muridae,Rattus,norvegicus,Iceland|Ireland|United Kingdom|Portugal|Spain|France|Luxembourg|Belgium|Netherlands|Germany|Denmark|Switzerland|Liechtenstein|Italy|Austria|Czech Republic|Hungary|Slovakia|Slovenia|Croatia|Bosnia and Herzegovina|North Macedonia|Serbia|Kosovo|Albania|Greece|Bulgaria|Romania|Poland|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Cyprus|Lebanon|Israel|Palestine|Egypt|Jordan|Syria|Iran|Turkmenistan|Uzbekistan|Tajikistan|Kyrgyzstan|Kazakhstan|Mongolia|China,Palearctic,LC,Rattus norvegicus
+Rodentia,Muridae,Rattus,rattus,Ireland|United Kingdom|Portugal|Spain|France|Netherlands|Luxembourg|Belgium|Germany|Switzerland|Liechtenstein|Austria|Italy|Malta|Slovenia|Czech Republic|Hungary|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Poland|Lithuania|Latvia|Estonia|Russia|Georgia|Armenia|Azerbaijan|Turkey|Cyprus|Syria|Lebanon|Israel|Palestine|Jordan|Saudi Arabia|Qatar|United Arab Emirates|Oman|Iran|Pakistan|India|Sri Lanka|Nepal|Bhutan|Bangladesh|Morocco|Algeria|Tunisia|Libya|Egypt|Sudan|Ethiopia|Djibouti|Senegal|Gambia|Guinea-Bissau|Guinea|Mali|Sierra Leone|Liberia|Cote d'Ivoire|Ghana|Togo|Benin|Nigeria|Cameroon|Democratic Republic of the Congo|Republic of the Congo|South Sudan|Uganda|Kenya|Rwanda|Burundi|Tanzania|Zambia|Malawi|Mozambique|Angola|Namibia|Zimbabwe|South Africa|Eswatini|Madagascar,Afrotropic|Indomalaya|Palearctic,LC,Rattus rattus
+Eulipotyphla,Soricidae,Crocidura,flavescens,South Africa|Lesotho|Eswatini|Mozambique,Afrotropic,LC,Crocidura flavescens
+Eulipotyphla,Soricidae,Crocidura,monax,Tanzania,Afrotropic,DD,Crocidura monax
+Eulipotyphla,Soricidae,Suncus,murinus,Afghanistan|Pakistan|India|Sri Lanka|Nepal|Bhutan|Bangladesh|China|Myanmar|Thailand|Laos|Vietnam|Cambodia|Malaysia|Singapore|Indonesia|Brunei|East Timor,Palearctic|Indomalaya|Australasia,LC,Suncus murinus
+Eulipotyphla,Soricidae,Blarina,carolinensis,United States,Nearctic,LC,Blarina carolinensis
+Eulipotyphla,Soricidae,Sorex,unguiculatus,China|Russia|Japan|North Korea?,Palearctic,LC,Sorex unguiculatus
+Eulipotyphla,Talpidae,Condylura,cristata,Canada|United States,Nearctic,LC,Condylura cristata
+Chiroptera,Pteropodidae,Pteropus,griseus,Indonesia|East Timor,Australasia,VU,Pteropus griseus
+Chiroptera,Pteropodidae,Pteropus,vampyrus,China?|Myanmar|Cambodia|Vietnam|Thailand|Malaysia|Singapore|Indonesia|Brunei|Philippines|East Timor,Indomalaya|Australasia,EN,Pteropus vampyrus
+Chiroptera,Hipposideridae,Hipposideros,larvatus,India|Bangladesh|Myanmar|Vietnam|Laos|Cambodia|Thailand|Malaysia|Indonesia,Indomalaya|Palearctic,LC,Hipposideros larvatus
+Chiroptera,Hipposideridae,Hipposideros,pygmaeus,Philippines,Indomalaya,LC,Hipposideros pygmaeus
+Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,Morocco|Algeria|Tunisia|Libya|United Kingdom|Portugal|Spain|France|Luxembourg|Germany|Switzerland|Liechtenstein|Italy|Malta?|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Ukraine|Russia|Armenia|Azerbaijan|Turkey|Cyprus|Syria|Lebanon|Israel|Palestine|Jordan|Iraq|Iran|Turkmenistan|Tajikistan|Kyrgyzstan|Pakistan|India,Palearctic,LC,Rhinolophus ferrumequinum
+Chiroptera,Emballonuridae,Saccopteryx,bilineata,Mexico|Belize|Guatemala|El Salvador|Honduras|Nicaragua|Costa Rica|Panama|Colombia|Venezuela|Trinidad and Tobago|Guyana|Suriname|French Guiana|Ecuador|Peru|Brazil|Bolivia,Nearctic|Neotropic,LC,Saccopteryx bilineata
+Chiroptera,Mormoopidae,Mormoops,blainvillei,Cuba|Jamaica|Dominican Republic|Haiti|Puerto Rico,Neotropic,LC,Mormoops blainvillei
+Chiroptera,Mormoopidae,Pteronotus,fuscus,Colombia|Venezuela|Guyana|Saint Vincent and the Grenadines|Trinidad and Tobago,Neotropic,NE,Pteronotus fuscus
+Chiroptera,Phyllostomidae,Anoura,geoffroyi,Colombia|Venezuela|Trinidad and Tobago|Grenada|Guyana|Suriname|French Guiana|Ecuador|Peru|Bolivia|Brazil,Neotropic,LC,Anoura geoffroyi
+Chiroptera,Phyllostomidae,Ariteus,flavescens,Jamaica,Neotropic,LC,Ariteus flavescens
+Chiroptera,Miniopteridae,Miniopterus,fuscus,Japan,Palearctic,EN,Miniopterus fuscus
+Chiroptera,Miniopteridae,Miniopterus,schreibersii,Portugal|Spain|France|Switzerland|Italy|Austria?|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Romania|Montenegro|Albania|North Macedonia|Bulgaria|Greece|Turkey|Russia|Georgia|Lebanon|Syria|Israel|Palestine|Jordan?|Cyprus|Malta|Morocco|Algeria|Tunisia|Libya,Palearctic|Afrotropic,VU,Miniopterus schreibersii
+Chiroptera,Molossidae,Tadarida,brasiliensis,United States|Mexico|Guatemala|Honduras|El Salvador|Nicaragua|Costa Rica|Panama|Bahamas|Cuba|Cayman Islands|Jamaica|Haiti|Dominican Republic|Anguilla|Antigua and Barbuda|Aruba|Barbados|Bonaire|Sint Eustatius|Saba|Dominica|Grenada|Guadeloupe|Martinique|Montserrat|Saint Barthélemy|Saint Kitts and Nevis|Saint Lucia|Sint Maarten|Saint Vincent and the Grenadines|British Virgin Islands|United States Virgin Islands|Colombia|Venezuela|Trinidad and Tobago|Ecuador|Peru|Bolivia|Brazil|Paraguay|Uruguay|Argentina|Chile|Falkland Islands,Nearctic|Neotropic,LC,Tadarida brasiliensis
+Chiroptera,Vespertilionidae,Myotis,lucifugus,Canada|United States,Nearctic,EN,Myotis lucifugus
+Chiroptera,Vespertilionidae,Eptesicus,fuscus,Canada|United States|Mexico|Guatemala|Belize|Honduras|Nicaragua|Costa Rica|Panama|Colombia|Venezuela|Ecuador,Nearctic|Neotropic,LC,Eptesicus fuscus
+Chiroptera,Vespertilionidae,Neoeptesicus,brasiliensis,Mexico|Guatemala|Honduras|Nicaragua|Costa Rica|Panama|Colombia|Venezuela|Trinidad and Tobago|Guyana|Suriname|French Guiana|Ecuador|Peru|Brazil|Bolivia|Paraguay|Uruguay|Argentina,Nearctic|Neotropic,LC (as Eptesicus brasiliensis),Neoeptesicus brasiliensis
+Chiroptera,Vespertilionidae,Pipistrellus,javanicus,Pakistan|India|Nepal|Bhutan|Bangladesh|Andaman and Nicobar Islands|China|Myanmar|Thailand|Laos|Vietnam|Cambodia|Malaysia|Singapore|Indonesia|Brunei|Philippines|East Timor,Palearctic|Indomalaya|Australasia,LC,Pipistrellus javanicus
+Chiroptera,Vespertilionidae,Pipistrellus,pipistrellus,Morocco|Algeria|Tunisia|Libya|United Kingdom|Ireland|Portugal|Spain|France|Luxembourg|Netherlands|Belgium|Germany|Denmark|Sweden|Switzerland|Liechtenstein|Italy|Malta|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Russia|Georgia|Armenia|Azerbaijan|Turkey|Syria|Lebanon|Israel|Palestine|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Myanmar|China|Taiwan,Indomalaya|Palearctic,LC,Pipistrellus pipistrellus
+Chiroptera,Vespertilionidae,Pipistrellus,pygmaeus,Ireland|United Kingdom|Portugal|Spain|France|Germany|Denmark|Sweden|Norway|Switzerland|Italy|Slovenia|Austria|Czech Republic|Poland|Slovakia|Hungary|Croatia|Bosnia and Herzegovina|Serbia|Greece|Bulgaria|Romania|Ukraine|Belarus|Lithuania|Latvia|Estonia|Russia|Georgia|Armenia|Azerbaijan|Iran|Turkey|Cyprus,Palearctic,LC,Pipistrellus pygmaeus
+Chiroptera,Vespertilionidae,Scotoecus,albigula,Kenya|Somalia|Angola|Zambia|Malawi|Mozambique,Afrotropic,NE,Scotoecus albigula
+Chiroptera,Vespertilionidae,Nyctophilus,geoffroyi,Australia,Australasia,LC,Nyctophilus geoffroyi
+Chiroptera,Vespertilionidae,Vespertilio,murinus,United Kingdom|Norway|Sweden|Finland|France|Belgium|Luxembourg|Netherlands|Germany|Denmark|Switzerland|Italy|Liechtenstein|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Russia|Georgia|Armenia|Azerbaijan|Turkey|United Arab Emirates|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|China|Mongolia|North Korea|Japan,Palearctic,LC,Vespertilio murinus
+Carnivora,Ailuridae,Ailurus,fulgens,Nepal|Bhutan|India|Myanmar?|China,Palearctic,EN,Ailurus fulgens
+Carnivora,Mephitidae,Mephitis,mephitis,Canada|United States|Mexico,Nearctic|Neotropic,LC,Mephitis mephitis
+Carnivora,Mustelidae,Gulo,gulo,United States|Canada|Russia|China|Mongolia|Finland|Sweden|Norway|Estonia,Nearctic|Palearctic,LC,Gulo gulo
+Carnivora,Mustelidae,Martes,americana,Canada|United States,Nearctic,LC,Martes americana
+Carnivora,Mustelidae,Martes,martes,Portugal|Spain|France|Ireland|United Kingdom|Luxembourg|Belgium|Netherlands|Germany|Denmark|Switzerland|Liechtenstein|Austria|Italy|Czech Republic|Poland|Hungary|Slovakia|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Albania|Montenegro|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Syria|Iraq|Iran|Kazakhstan,Palearctic,LC,Martes martes
+Carnivora,Mustelidae,Enhydra,lutris,Japan|Russia|Canada|United States|Mexico,Marine,EN,Enhydra lutris
+Carnivora,Mustelidae,Lontra,canadensis,Canada|United States|Mexico?,Nearctic,LC,Lontra canadensis
+Carnivora,Mustelidae,Lutra,lutra,Morocco|Algeria|Tunisia|Ireland|United Kingdom|Portugal|Spain|France|Netherlands|Belgium|Luxembourg|Switzerland|Liechtenstein|Italy|Germany|Denmark|Austria|Czech Republic|Slovakia|Poland|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Syria|Lebanon|Israel|Palestine|Jordan|Iraq|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Sri Lanka|Nepal|Bhutan|China|Mongolia|North Korea|South Korea|Myanmar|Thailand|Laos|Vietnam|Cambodia|Indonesia,Palearctic|Indomalaya,NT,Lutra lutra
+Carnivora,Mustelidae,Pteronura,brasiliensis,Colombia|Venezuela|Guyana|Suriname|French Guiana|Ecuador|Peru|Brazil|Bolivia|Paraguay|Argentina?|Uruguay?,Neotropic,EN,Pteronura brasiliensis
+Carnivora,Mustelidae,Mustela,erminea,Canada|United States|Ireland|United Kingdom|Portugal|Spain|France|Belgium|Luxembourg|Netherlands|Germany|Denmark|Switzerland|Liechtenstein|Italy|Austria|Czech Republic|Slovakia|Poland|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Kazakhstan|Uzbekistan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Mongolia|Japan,Nearctic|Palearctic,LC,Mustela erminea
+Carnivora,Mustelidae,Mustela,furo,Domesticated,,NE,Mustela furo
+Carnivora,Procyonidae,Bassariscus,astutus,United States|Mexico,Nearctic,LC,Bassariscus astutus
+Carnivora,Procyonidae,Procyon,lotor,Canada|United States|Mexico|Guatemala|Belize|Honduras|El Salvador|Nicaragua|Costa Rica|Panama,Nearctic|Neotropic,LC,Procyon lotor
+Carnivora,Procyonidae,Procyon,pygmaeus,Mexico,Neotropic,CR,Procyon pygmaeus
+Carnivora,Otariidae,Arctocephalus,gazella,Antarctica|Australia|French Southern and Antarctic Lands|South Africa|Prince Edward Islands|South Georgia and the South Sandwich Islands|Argentina|Brazil|Chile|Saint Helena,Marine,LC,Arctocephalus gazella
+Carnivora,Otariidae,Otaria,flavescens,Argentina|Brazil|Chile|Falkland Islands|Peru|Uruguay|Colombia|Ecuador,Marine,LC (as Otaria byronia),Otaria flavescens
+Carnivora,Phocidae,Cystophora,cristata,Canada|Greenland|Iceland|Norway|Antigua and Barbuda?|Bahamas?|Bermuda?|Denmark?|France?|Germany?|Ireland?|Portugal?|Puerto Rico?|Russia?|Saint Barthélemy?|Spain?|Turks and Caicos Islands?|United Kingdom?|United States?,Marine,VU,Cystophora cristata
+Carnivora,Ursidae,Ursus,maritimus,Canada|United States|Greenland|Norway|Russia|Iceland?,Nearctic|Palearctic,VU,Ursus maritimus
+Carnivora,Canidae,Canis,familiaris,Domesticated,,NE,Canis familiaris
+Carnivora,Canidae,Canis,lupus,Portugal|Spain|France|Luxembourg|Belgium|Netherlands|Germany|Denmark|Switzerland|Liechtenstein|Italy|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Montenegro|Albania|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Syria|Lebanon|Israel|Palestine|Jordan|Saudi Arabia|Qatar|United Arab Emirates|Oman|Yemen|Kuwait|Iraq|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Nepal|Bhutan|Bangladesh?|Myanmar|China|Mongolia|North Korea|South Korea|Canada|Greenland|United States|Mexico,Nearctic|Palearctic,LC,Canis lupus
+Carnivora,Canidae,Nyctereutes,procyonoides,Russia|China|Mongolia|North Korea|South Korea|Vietnam,Palearctic,LC,Nyctereutes procyonoides
+Carnivora,Canidae,Vulpes,vulpes,Morocco|Algeria|Tunisia|Libya|Egypt|Ireland|United Kingdom|Portugal|Spain|France|Luxembourg|Netherlands|Belgium|Germany|Denmark|Switzerland|Liechtenstein|Italy|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Serbia|Kosovo|Albania|Montenegro|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Syria|Lebanon|Israel|Palestine|Jordan|Saudi Arabia|Oman|Yemen|United Arab Emirates|Qatar|Iraq|Kuwait|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|Mongolia|China|North Korea|South Korea|Japan|India|Nepal|Bhutan|Bangladesh|Myanmar|Canada|Greenland|United States,Nearctic|Palearctic,LC,Vulpes vulpes
+Carnivora,Felidae,Felis,catus,Domesticated,,NE,Felis catus
+Carnivora,Felidae,Leopardus,geoffroyi,Bolivia|Brazil|Paraguay|Uruguay|Argentina|Chile,Neotropic,LC,Leopardus geoffroyi
+Carnivora,Felidae,Lynx,canadensis,Canada|United States,Nearctic,LC,Lynx canadensis
+Carnivora,Felidae,Lynx,lynx,France|Switzerland|Liechtenstein|Germany|Austria|Czech Republic|Poland|Slovakia|Hungary|Slovenia|Croatia|Bosnia and Herzegovina|Montenegro?|Serbia?|Kosovo?|Greece?|Bulgaria|Romania|Moldova?|Ukraine|Lithuania|Latvia|Estonia|Norway|Sweden|Finland|Russia|Georgia|Armenia|Azerbaijan|Turkey|Iraq|Iran|Turkmenistan|Uzbekistan|Kazakhstan|Kyrgyzstan|Tajikistan|Afghanistan|Pakistan|India|Nepal|Bhutan?|China|Mongolia|North Korea,Palearctic,LC,Lynx lynx
+Carnivora,Felidae,Panthera,leo,India|Angola|Benin|Botswana|Burkina Faso|Cameroon|Central African Republic|Chad|Democratic Republic of the Congo|Eswatini|Ethiopia|Kenya|Malawi|Mozambique|Namibia|Niger|Nigeria|Senegal|Somalia|South Africa|South Sudan|Sudan|Tanzania|Uganda|Zambia|Zimbabwe|Cote d'Ivoire?|Ghana?|Guinea?|Guinea-Bissau|Mali?|Rwanda?|Togo?,Afrotropic|Indomalaya,VU,Panthera leo
+Carnivora,Felidae,Panthera,tigris,Bangladesh|Bhutan|India|Nepal|China|Russia|North Korea?|Myanmar|Thailand|Laos|Vietnam?|Cambodia?|Malaysia|Indonesia,Indomalaya|Palearctic,EN,Panthera tigris
+Carnivora,Herpestidae,Herpestes,flavescens,Angola|Namibia,Afrotropic,LC,Herpestes flavescens
+Carnivora,Hyaenidae,Hyaena,hyaena,Senegal|Mauritania|Mali|Guinea?|Burkina Faso|Benin?|Nigeria|Niger|Cameroon|Central African Republic?|Chad|Morocco|Algeria|Tunisia|Libya|Sudan?|South Sudan|Eritrea?|Djibouti|Ethiopia|Somalia?|Kenya|Uganda|Tanzania|Israel|Palestine|Lebanon|Jordan|Saudi Arabia|Kuwait?|Qatar?|United Arab Emirates?|Oman|Yemen|Syria|Turkey|Armenia|Azerbaijan|Georgia|Iraq|Iran|Turkmenistan|Uzbekistan|Tajikistan|Afghanistan|Pakistan|India|Nepal,Afrotropic|Indomalaya|Palearctic,NT,Hyaena hyaena
+Carnivora,Viverridae,Genetta,cristata,Nigeria|Cameroon|Gabon?|Republic of the Congo?,Afrotropic,VU,Genetta cristata
+Perissodactyla,Equidae,Equus,asinus,Domesticated,,NE,Equus asinus
+Perissodactyla,Equidae,Equus,caballus,Domesticated,,NE,Equus caballus
+Artiodactyla,Antilocapridae,Antilocapra,americana,Canada|United States|Mexico,Nearctic,LC,Antilocapra americana
+Artiodactyla,Bovidae,Gazella,gazella,Israel|Palestine|Jordan|Turkey|Egypt?|Lebanon?|Syria?,Palearctic,EN,Gazella gazella
+Artiodactyla,Bovidae,Nanger,dama,Morocco|Algeria|Chad|Mali|Niger|Sudan?,Afrotropic|Palearctic,CR,Nanger dama
+Artiodactyla,Bovidae,Procapra,przewalskii,China,Palearctic,EN,Procapra przewalskii
+Artiodactyla,Bovidae,Capra,hircus,Domesticated,,NE,Capra hircus
+Artiodactyla,Bovidae,Naemorhedus,goral,Pakistan|India|Bhutan|Nepal|China|Myanmar?,Palearctic,NT,Naemorhedus goral
+Artiodactyla,Bovidae,Naemorhedus,griseus,Myanmar|China|India,Palearctic,NE,Naemorhedus griseus
+Artiodactyla,Bovidae,Ovis,aries,Domesticated,,NE,Ovis aries
+Artiodactyla,Bovidae,Ovis,canadensis,Canada|United States|Mexico,Nearctic,LC,Ovis canadensis
+Artiodactyla,Bovidae,Oryx,gazella,Angola|Namibia|Botswana|Zimbabwe|South Africa,Afrotropic,LC,Oryx gazella
+Artiodactyla,Bovidae,Neotragus,pygmaeus,Guinea|Sierra Leone|Liberia|Cote d'Ivoire|Ghana,Afrotropic,LC,Neotragus pygmaeus
+Artiodactyla,Bovidae,Kobus,ellipsiprymnus,Senegal|Gambia|Guinea-Bissau|Guinea|Sierra Leone|Mali|Cote d'Ivoire|Burkina Faso|Ghana|Togo|Benin|Niger|Nigeria|Cameroon|Chad|Central African Republic|Democratic Republic of the Congo|South Sudan|Sudan|Eritrea|Ethiopia|Uganda|Kenya|Somalia|Rwanda|Burundi|Tanzania|Zambia|Malawi|Mozambique|Angola|Zimbabwe|Botswana|Namibia|South Africa|Eswatini,Afrotropic,LC,Kobus ellipsiprymnus
+Artiodactyla,Bovidae,Bos,bison,Canada|United States|Mexico,Nearctic,NT (as Bison bison),Bos bison
+Artiodactyla,Bovidae,Bos,javanicus,Myanmar|China?|Laos?|Vietnam|Thailand|Cambodia|Indonesia|Malaysia,Indomalaya|Palearctic,EN,Bos javanicus
+Artiodactyla,Bovidae,Bos,taurus,Domesticated,,NE,Bos taurus
+Artiodactyla,Bovidae,Bubalus,bubalis,Domesticated,,NE,Bubalus bubalis
+Artiodactyla,Cervidae,Alces,alces,Germany|Czech Republic|Slovakia|Belarus|Croatia|Hungary|Moldova|Romania|Poland|Ukraine|Norway|Sweden|Finland|Estonia|Latvia|Lithuania|Russia|Kazakhstan|Mongolia|China|Canada|United States,Nearctic|Palearctic,LC,Alces alces
+Artiodactyla,Cervidae,Mazama,americana,Colombia|Venezuela|Ecuador|Peru|Guyana|Suriname|French Guiana|Brazil|Trinidad and Tobago,Neotropic,DD,Mazama americana
+Artiodactyla,Cervidae,Rangifer,tarandus,Norway|Finland|Russia|Mongolia|Canada|Greenland|United States,Palearctic|Nearctic,VU,Rangifer tarandus
+Artiodactyla,Cervidae,Cervus,canadensis,Kazakhstan|Kyrgyzstan|Russia|Mongolia|China|Bhutan|Canada|United States,Palearctic|Nearctic,LC,Cervus canadensis
+Artiodactyla,Cervidae,Cervus,elaphus,Ireland|United Kingdom|Norway|Sweden|Portugal|Spain|France|Belgium|Netherlands|Germany|Denmark|Luxembourg|Switzerland|Liechtenstein|Italy|Austria|Czech Republic|Poland|Slovakia|Hungary|Croatia|Slovenia|Bosnia and Herzegovina|Serbia|Montenegro|North Macedonia|Greece|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Russia|Georgia|Armenia|Azerbaijan|Turkey|Iran|Iraq|Morocco|Algeria|Tunisia,Palearctic,LC,Cervus elaphus
+Artiodactyla,Cervidae,Dama,dama,Ireland|United Kingdom|Portugal|Spain|France|Belgium|Netherlands|Germany|Denmark|Switzerland|Luxembourg|Liechtenstein|Austria|Italy|Hungary|Slovenia|Slovakia|Czech Republic|Poland|Sweden|Norway|Croatia|Bosnia and Herzegovina|Montenegro|Albania|Serbia|Kosovo|Greece|Turkey|Bulgaria|Romania|Moldova|Ukraine|Belarus|Lithuania|Latvia|Estonia|Finland|Russia,Palearctic,LC,Dama dama
+Artiodactyla,Giraffidae,Giraffa,camelopardalis,Niger|Cameroon|Chad|Central African Republic|Democratic Republic of the Congo|Sudan|South Sudan|Kenya|Uganda,Afrotropic,VU,Giraffa camelopardalis
+Artiodactyla,Moschidae,Moschus,fuscus,China|India|Bhutan|Nepal|Myanmar,Palearctic|Indomalaya,EN,Moschus fuscus
+Artiodactyla,Tragulidae,Tragulus,javanicus,Indonesia,Indomalaya,DD,Tragulus javanicus
+Artiodactyla,Suidae,Potamochoerus,larvatus,Ethiopia|South Sudan|Somalia|Kenya|Uganda|Democratic Republic of the Congo|Rwanda|Burundi|Tanzania|Zambia|Angola|Malawi|Mozambique|Zimbabwe|Botswana|Namibia|South Africa|Eswatini,Afrotropic,LC,Potamochoerus larvatus
+Artiodactyla,Camelidae,Camelus,dromedarius,Domesticated,,NE,Camelus dromedarius
+Artiodactyla,Hippopotamidae,Hippopotamus,amphibius,Senegal|Gambia|Guinea-Bissau|Guinea|Mali|Sierra Leone|Cote d'Ivoire|Burkina Faso|Ghana|Togo|Benin|Nigeria|Niger|Cameroon|Chad|Central African Republic|Equatorial Guinea|Gabon|Republic of the Congo|Democratic Republic of the Congo|Sudan|South Sudan|Ethiopia|Somalia|Kenya|Uganda|Rwanda|Burundi|Tanzania|Angola|Zambia|Malawi|Mozambique|Namibia|Botswana|Zimbabwe|South Africa|Eswatini,Afrotropic,VU,Hippopotamus amphibius
+Artiodactyla,Balaenopteridae,Balaenoptera,musculus,Angola|Argentina|Australia|Bangladesh|Bermuda|Brazil|Cape Verde|Canada|Chile|Cocos Islands|Colombia|Comoros|Cook Islands|Costa Rica|Djibouti|Ecuador|El Salvador|Falkland Islands|Fiji|France|Greenland|Guatemala|Iceland|India|Indonesia|Iran|Ireland|Iraq|Japan|Kenya|Kiribati|Madagascar|Malaysia|Christmas Island|Maldives|Mauritania|Mauritius|Mexico|Morocco|Mozambique|Myanmar|Namibia|Nauru|New Caledonia|New Zealand|Nicaragua|Norfolk Island|Norway|Oman|Pakistan|Palau|Panama|Papua New Guinea|Peru|Philippines|Portugal|Azores|Madeira|Russia|Réunion|Senegal|Seychelles|Solomon Islands|Somalia|South Africa|South Georgia and the South Sandwich Islands|Spain|Canary Islands|Sri Lanka|Tanzania|Thailand|East Timor|Tuvalu|United Kingdom|United States|Uruguay|Vanuatu|Yemen|Gabon?|North Korea?|South Korea?|Taiwan?|China?,Marine,EN,Balaenoptera musculus
+Artiodactyla,Delphinidae,Grampus,griseus,Algeria|Angola|Anguilla|Antigua and Barbuda|Argentina|Aruba|Australia|Bahamas|Barbados|Bermuda|Brazil|Canada|Cayman Islands|Chile|Colombia|Comoros|Cook Islands|Costa Rica|Croatia|Cuba|Cote d'Ivoire|Denmark|Dominica|Ecuador|Egypt|Eritrea|France|French Polynesia|Gabon|Gambia|Germany|Ghana|Greece|Grenada|Guadeloupe|Guam|Guatemala|Guinea-Bissau|Haiti|India|Indonesia|Iran|Ireland|Israel|Italy|Jamaica|Japan|North Korea|South Korea|Lebanon|Madagascar|Maldives|Malta|Martinique|Mauritania|Mauritius|Mayotte|Mexico|Morocco|New Caledonia|New Zealand|Oman|Pakistan|Panama|Papua New Guinea|Peru|Philippines|Russia|Saint Vincent and the Grenadines|Samoa|Saudi Arabia|Seychelles|Solomon Islands|Somalia|South Africa|Spain|Sri Lanka|Sudan|Sweden|Syria|Taiwan|China|Tanzania|East Timor|Tonga|Trinidad and Tobago|Tunisia|Turkey|United Arab Emirates|United States|United Kingdom|Uruguay|Venezuela|Vietnam|Yemen|Cyprus|French Guiana|Kenya|Mozambique|Norway|Puerto Rico|Senegal|United States Virgin Islands|Albania?|American Samoa?|Bahrain?|Bangladesh?|Belgium?|Belize?|Benin?|Bonaire?|Sint Eustatius?|Saba?|Bosnia and Herzegovina?|Brunei?|Cape Verde?|Cambodia?|Cameroon?|Cocos Islands?|Republic of the Congo?|Democratic Republic of the Congo?|Curaçao?|Djibouti?|Dominican Republic?|El Salvador?|Equatorial Guinea?|Fiji?|Guinea?|Guyana?|Honduras?|Jordan?|Kiribati?|Liberia?|Malaysia?|Marshall Islands?|Micronesia?|Montenegro?|Montserrat?|Myanmar?|Namibia?|Nauru?|Netherlands?|Nicaragua?|Nigeria?|Niue?|Northern Marianas?|Palau?|Pitcairn?|Portugal?|Qatar?|Saint Kitts and Nevis?|Saint Lucia?|Sint Maarten?|São Tomé and Príncipe?|Sierra Leone?|Singapore?|Slovenia?|Suriname?|Thailand|Togo?|Turks and Caicos Islands?|Tuvalu?|Vanuatu|British Virgin Islands?|Wallis and Futuna?,Marine,LC,Grampus griseus
+Artiodactyla,Pontoporiidae,Pontoporia,blainvillei,Argentina|Brazil|Uruguay,Marine,VU,Pontoporia blainvillei
+Perissodactyla,Equidae,Equus,Equus ferus,"Mongolia, China, Kazakhstan",Palearctic,EN,Equus przewalskii
